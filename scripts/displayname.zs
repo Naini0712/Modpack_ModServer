@@ -33,6 +33,7 @@
 <dcs_climate:dcs_color_ring:4>.addTooltip(format.red("このアイテムは運営により使用が制限されています。"));
 <dcs_climate:dcs_color_ring2>.addTooltip(format.red("このアイテムは運営により使用が制限されています。"));
 <dcs_climate:dcs_color_pendant>.addTooltip(format.red("このアイテムは運営により使用が制限されています。"));
+<dcs_climate:dcs_color_pendant:1>.addTooltip(format.red("このアイテムは運営により使用が制限されています。"));
 <dcs_climate:dcs_color_pendant2:1>.addTooltip(format.red("このアイテムは運営により使用が制限されています。"));
 <dcs_climate:dcs_color_pendant2:3>.addTooltip(format.red("このアイテムは運営により使用が制限されています。"));
 <dcs_climate:dcs_color_badge>.addTooltip(format.red("このアイテムは運営により使用が制限されています。"));
@@ -79,7 +80,6 @@
 <botania:manabomb>.addTooltip(format.red("このアイテムは運営により使用が制限されています。"));
 <thermalexpansion:morb>.addTooltip(format.red("このアイテムは運営により使用が制限されています。"));
 <botania:specialflower>.withTag({type: "loonium"}).addTooltip(format.red("このアイテムは運営により使用が制限されています。"));
-<botania:specialflower>.withTag({type: "endoflame"}).addTooltip(format.red("このアイテムは運営により使用が制限されています。"));
 <botania:specialflower>.withTag({type: "orechid"}).addTooltip(format.red("このアイテムは運営により使用が制限されています。"));
 <botania:specialflower>.withTag({type: "orechidIgnem"}).addTooltip(format.red("このアイテムは運営により使用が制限されています。"));
 <gvcr2:gvcr2_grenade_frag>.withTag({Brast_cycle: 0 as byte, Brast: 0 as byte, Reload: 0, Bolt: 0 as byte}).addTooltip(format.red("このアイテムは運営により使用が制限されています。"));
@@ -87,3 +87,4 @@
 <gvcr2:gvcr2_grenade_impact>.withTag({Brast_cycle: 0 as byte, Brast: 0 as byte, Reload: 0, Bolt: 0 as byte}).addTooltip(format.red("このアイテムは運営により使用が制限されています。"));
 <gvcr2:gvcr2_grenade_atgrenade>.withTag({Brast_cycle: 0 as byte, Brast: 0 as byte, Reload: 0, Bolt: 0 as byte}).addTooltip(format.red("このアイテムは運営により使用が制限されています。"));
 <thaumicaugmentation:thaumostatic_harness>.addTooltip(format.red("このアイテムは運営により使用が制限されています。"));
+<tconstruct:smeltery_controller>.addTooltip(format.red("このブロックは以下のスキルを所持していないと使用できません。：engineer1"));

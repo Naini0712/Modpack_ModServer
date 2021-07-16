@@ -35,6 +35,9 @@ mods.recipestages.Recipes.setRecipeStage("A", <thermalexpansion:dynamo>);
 mods.recipestages.Recipes.setRecipeStage("A", <thermalexpansion:dynamo:1>);
 mods.recipestages.Recipes.setRecipeStage("A", <thermalexpansion:dynamo:2>);
 mods.recipestages.Recipes.setRecipeStage("A", <thermalexpansion:dynamo:3>);
+mods.recipestages.Recipes.setRecipeStage("A", <thermalexpansion:cell:*>);
+mods.recipestages.Recipes.setRecipeStage("A", <thermalexpansion:tank:*>);
+mods.recipestages.Recipes.setRecipeStage("A", <thermalexpansion:reservoir:*>);
 
 mods.ItemStages.addItemStage("A", <thermalexpansion:machine>.withTag({}));
 mods.ItemStages.addItemStage("A", <thermalexpansion:machine:1>.withTag({}));

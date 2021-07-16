@@ -1,5 +1,5 @@
 mods.bloodmagic.BloodAltar.removeRecipe(<minecraft:stone>);
-mods.bloodmagic.BloodAltar.addRecipe(<bloodmagic:slate>, <botania:livingrock>, 0, 1000,5,5);
+mods.bloodmagic.BloodAltar.addRecipe(<bloodmagic:slate>, <thermalfoundation:material:354>, 0, 1000,5,5);
 
 mods.ItemStages.addItemStage("B1", <bloodmagic:sacrificial_dagger>.withTag({}));
 mods.ItemStages.addItemStage("B1", <bloodmagic:sentient_sword>.withTag({}));

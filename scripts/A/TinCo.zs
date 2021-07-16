@@ -20,3 +20,5 @@ mods.tconstruct.Casting.removeTableRecipe(<tconstruct:cross_guard>.withTag({Mate
 mods.tconstruct.Casting.removeTableRecipe(<tconstruct:knife_blade>.withTag({Material: "pigiron"}));
 mods.tconstruct.Casting.removeTableRecipe(<tconstruct:bow_limb>.withTag({Material: "pigiron"}));
 mods.tconstruct.Casting.removeTableRecipe(<tconstruct:arrow_head>.withTag({Material: "pigiron"}));
+mods.tconstruct.Casting.removeTableRecipe(<tconstruct:large_plate>.withTag({Material: "pigiron"}));
+mods.tconstruct.Casting.removeTableRecipe(<tconstruct:scythe_head>.withTag({Material: "pigiron"}));

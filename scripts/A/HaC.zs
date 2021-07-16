@@ -82,6 +82,8 @@ mods.recipestages.Recipes.setRecipeStage("A2", <dcs_climate:dcs_motor_scooter:1>
 mods.recipestages.Recipes.setRecipeStage("A2", <dcs_climate:dcs_motor_scooter:1>);
 mods.recipestages.Recipes.setRecipeStage("A2", <dcs_climate:dcs_motor_scooter:3>);
 mods.recipestages.Recipes.setRecipeStage("A2", <dcs_climate:dcs_magnetic_hover>);
+mods.recipestages.Recipes.setRecipeStage("A2", <dcs_climate:dcs_ore_dustblock:*>);
+mods.recipestages.Recipes.setRecipeStage("A2", <dcs_climate:dcs_ore_dustblock2:*>);
 
 mods.ItemStages.addItemStage("A2", <dcs_climate:dcs_wrench>);
 mods.ItemStages.addItemStage("A2", <dcs_climate:dcs_device_windmill>);
